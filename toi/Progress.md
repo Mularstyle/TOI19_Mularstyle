@@ -1,0 +1,38 @@
+# Progress
+
+TOI1 6/6
+
+TOI2 6/6
+
+TOI3 4/6
+
+TOI4 6/6
+
+TOI5 3/6
+
+TOI6 5/6
+
+TOI7 0/6
+
+TOI8 3/6
+
+TOI9 0/6
+
+TOI10 2/6
+
+TOI11 6/6
+
+TOI12 5/6
+
+TOI13 4/6
+
+TOI14 4/6
+
+TOI15 3/6
+
+TOI16 1/6
+
+TOI17 6/6
+
+TOI18 5/6
+
