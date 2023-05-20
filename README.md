@@ -1,14 +1,38 @@
-# TOI_Practice_Mularstyle
-LAI LAI !!
+# Progress
 
-Just my solution code for ex_TOI problem 
+TOI1 6/6
 
-I'm practicing for TOI19
+TOI2 6/6
 
-# About Me
+TOI3 4/6
 
-Name : Dachatorn Chitnatham
+TOI4 6/6
 
-Center : Prince Songkla University, Pattani Campus
+TOI5 4/6
 
-TOI18 - 
+TOI6 5/6
+
+TOI7 2/6
+
+TOI8 4/6
+
+TOI9 2/6
+
+TOI10 4/6
+
+TOI11 6/6
+
+TOI12 6/6
+
+TOI13 4/6
+
+TOI14 6/6
+
+TOI15 5/6
+
+TOI16 1/6
+
+TOI17 6/6
+
+TOI18 5/6
+
