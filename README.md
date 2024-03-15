@@ -3,7 +3,7 @@ LAI LAI !!
 
 Just my solution code for ex_TOI problem 
 
-I'm practicing for TOI19
+I'm a high school student that interest in competitive programming 
 
 # About Me
 
@@ -11,4 +11,6 @@ Name : Dachatorn Chitnatham
 
 Center : Prince Songkla University, Pattani Campus
 
-TOI18 - 
+TOI18 : Participant
+
+TOI19 : Silver Medal🥈
