@@ -4,15 +4,25 @@ This is a `Draft` version of TOI topic lists summary
 
 
 Array
+
 Vector
+
 Linked List
+
 Set / Unordered_Set
+
 Map / Unordered_Map
+
 Stack
+
 Queue
+
 Priority Queue
+
 Pair
+
 Deque
+
 Struct
 
 ## Algorithm
