@@ -51,9 +51,9 @@ This is a `Draft` version of TOI topic lists summary
 - Partition
 	- 1D
 	- 2D On-Grid
-	
+
 - Bitmask DP
-- 
+
 - Sliding Window
 
 ## Graph
