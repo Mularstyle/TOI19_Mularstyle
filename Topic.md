@@ -37,18 +37,23 @@ This is a `Draft` version of TOI topic lists summary
 	- Top-down (Memoization)
 	- Bottom-up (Tabulation)
 - Multi-Dimension-DP  (มันก็คือ DP ที่มีหลาย state)
-### ประยุกต์
+#### ประยุกต์
 - Prefix Sum/Quick Sum
 	- 1D ประยุกต์กับบางข้อ
 	- 2D/On-Grid
+
 - LIS
 	- O(N^2) อย่าใช้เถอะขอล้อง
 	- O(NlogN) ใช้ Binary-Search
+
 - Knuth DP
+
 - Partition
 	- 1D
 	- 2D On-Grid
+	
 - Bitmask DP
+- 
 - Sliding Window
 
 ## Graph
@@ -68,7 +73,7 @@ This is a `Draft` version of TOI topic lists summary
 
 - Tree/Graph properties
 
-**ประยุกต์**
+### ประยุกต์
 
 - Disjoint Set Union
 
@@ -77,7 +82,6 @@ This is a `Draft` version of TOI topic lists summary
 - Shortest Path
 
 	- Dijkstra (SSSP/MSSP)
-
 		- dijkstra 1 เงื่อนไข (สนแค่ระยะทาง)
 		- dijkstra หลายเงื่อนไข
 
@@ -93,10 +97,10 @@ This is a `Draft` version of TOI topic lists summary
 
 	- Kahn
 
-	- Strongly Connected Components
+- Strongly Connected Components
 
-		-	Tarjan
+	-	Tarjan
 
-		-	Kosaraju
+	-	Kosaraju
 
 - Graph Visualization  (ดวงตาเห็นธรรม)
