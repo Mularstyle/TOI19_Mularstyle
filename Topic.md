@@ -3,27 +3,17 @@ This is a `Draft` version of TOI topic lists summary
 ## Data Structure
 
 
-Array
-
-Vector
-
-Linked List
-
-Set / Unordered_Set
-
-Map / Unordered_Map
-
-Stack
-
-Queue
-
-Priority Queue
-
-Pair
-
-Deque
-
-Struct
+- Array
+- Vector
+- Linked List
+- Set / Unordered_Set
+- Map / Unordered_Map
+- Stack
+- Queue
+- Priority Queue
+- Pair
+- Deque
+- Struct
 
 ## Algorithm
 
@@ -60,3 +50,53 @@ Struct
 	- 2D On-Grid
 - Bitmask DP
 - Sliding Window
+
+## Graph
+
+### พื้นฐาน
+
+- Graph representation
+	- Adjacency Matrix
+	- Adjacency List
+	- Edge List
+	
+- Graph Traversal
+	- DFS
+	- BFS
+
+- Terminology : cycle,path,component,degree,Etc.
+
+- Tree/Graph properties
+
+**ประยุกต์**
+
+- Disjoint Set Union
+
+- Cycle Detect
+
+- Shortest Path
+
+	- Dijkstra (SSSP/MSSP)
+
+		- dijkstra 1 เงื่อนไข (สนแค่ระยะทาง)
+		- dijkstra หลายเงื่อนไข
+
+	- Floyd-Warshall (APSP)
+
+- Minimum Spanning Tree
+
+	- Kruskal
+
+	- Prim
+
+- Topological Sort
+
+	- Kahn
+
+	- Strongly Connected Components
+
+		-	Tarjan
+
+		-	Kosaraju
+
+- Graph Visualization  (ดวงตาเห็นธรรม)
