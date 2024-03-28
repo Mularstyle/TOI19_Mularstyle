@@ -36,6 +36,7 @@ This is a `Draft` version of TOI topic lists summary
 -  Approaches  
 	- Top-down (Memoization)
 	- Bottom-up (Tabulation)
+
 - Multi-Dimension-DP  (มันก็คือ DP ที่มีหลาย state)
 #### ประยุกต์
 - Prefix Sum/Quick Sum
