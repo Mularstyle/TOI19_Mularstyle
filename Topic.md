@@ -19,7 +19,7 @@ This is a `Draft` version of TOI topic lists summary
 - 2.1 Brute Force
 	- 2.1.1 Iterative Complete Search
 	- 2.1.2 Recursive Complete Search
-	- 
+	 
 -	2.2 Greedy
 
 - 2.3 Divide and Conquer (ไม่รู้ใช้ไม่เป็น ☹)
@@ -31,70 +31,59 @@ This is a `Draft` version of TOI topic lists summary
 		- ใช้ฟังก์ชั่น lower/upper bound
 
 - 2.5 Dynamic Programming
-	- 2.5.1 พื้นฐาน
-		-  2.5.1.1 Approaches  
+	- พื้นฐาน
+		-  2.5.1 Approaches  
 			- Top-down (Memoization)
 			- Bottom-up (Tabulation)
-		- 2.5.1.2Multi-Dimension-DP  (มันก็คือ DP ที่มีหลาย state)
-	-	2.5.2 ประยุกต์
-		- Prefix Sum/Quick Sum
-			- 1D ประยุกต์กับบางข้อ
-			- 2D/On-Grid
-		- LIS
-			- O(N^2) อย่าใช้เถอะขอล้อง
-			- O(NlogN) ใช้ Binary-Search
-		- Knuth DP
-		- Partition
-			- 1D
-			- 2D On-Grid
-		- Bitmask DP
-		- Sliding Window
+		- 2.5.2 Multi-Dimension-DP  (มันก็คือ DP ที่มีหลาย state)
+	- ประยุกต์
+		- 2.5.3 Prefix Sum/Quick Sum
+		- 2.5.4 LIS
+			- `O(N^2)` อย่าใช้เถอะขอล้อง
+			- `O(NlogN)` ใช้ Binary-Search
+		- 2.5.5 Knuth DP
+		- 2.5.6 Partition
+		- 2.5.7 Bitmask DP
+		- 2.5.8 Sliding Window
 
-## Graph
+## 3.Graph
 
-### พื้นฐาน
-
-- Graph representation
-	- Adjacency Matrix
-	- Adjacency List
-	- Edge List
+- พื้นฐาน
+	- 3.1 Graph representation
+		- 3.1.1 Adjacency Matrix
+		- 3.1.2 Adjacency List
+		- 3.1.3 Edge List
 	
-- Graph Traversal
-	- DFS
-	- BFS
+	- 3.2 Graph Traversal
+		- 3.2.1 DFS
+		- 3.2.2 BFS
 
-- Terminology : cycle,path,component,degree,Etc.
+	- 3.3 Terminology : cycle,path,component,degree,Etc.
 
-- Tree/Graph properties
+	- 3.4 Tree/Graph properties
 
-### ประยุกต์
+- ประยุกต์
 
-- Disjoint Set Union
+	- 3.4 Disjoint Set Union
 
-- Cycle Detect
+	- 3.5 Cycle Detect
 
-- Shortest Path
+	- 3.6 Shortest Path
 
-	- Dijkstra (SSSP/MSSP)
-		- dijkstra 1 เงื่อนไข (สนแค่ระยะทาง)
-		- dijkstra หลายเงื่อนไข
+		- 3.6.1 Dijkstra (SSSP/MSSP)
+			- dijkstra 1 เงื่อนไข (สนแค่ระยะทาง)
+			- dijkstra หลายเงื่อนไข
+		- 3.6.2 Floyd-Warshall (APSP)
 
-	- Floyd-Warshall (APSP)
+	- 3.7 Minimum Spanning Tree
+		- 3.7.1 Kruskal
+		- 3.7.2 Prim
 
-- Minimum Spanning Tree
+	- 3.8 Topological Sort
+		- 3.8.1 Kahn
 
-	- Kruskal
+	- 3.9 Strongly Connected Components
+		-	3.9.1 Tarjan
+		-	3.9.2 Kosaraju
 
-	- Prim
-
-- Topological Sort
-
-	- Kahn
-
-- Strongly Connected Components
-
-	-	Tarjan
-
-	-	Kosaraju
-
-- Graph Visualization  (ดวงตาเห็นธรรม)
+	- Extra!! Graph Visualization  (ดวงตาเห็นธรรม) 
