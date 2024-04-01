@@ -77,3 +77,4 @@ This is a `Draft` version of TOI topic lists summary
 	- Extra!! Graph Visualization  (ดวงตาเห็นธรรม:มองให้ออกว่าโจทย์ต้องใช้กราฟ) 
 	
 	![cat](https://i.ytimg.com/vi/j1YEVm5M-YM/sddefault.jpg)
+Keep Fighting Everyone!!
