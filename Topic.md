@@ -74,6 +74,6 @@ This is a `Draft` version of TOI topic lists summary
 	- 3.9 Strongly Connected Components
 		-	3.9.1 Tarjan
 		-	3.9.2 Kosaraju
-	- Extra!! Graph Visualization  (ดวงตาเห็นธรรม) 
+	- Extra!! Graph Visualization  (ดวงตาเห็นธรรม:มองให้ออกว่าโจทย์ต้องใช้กราฟ) 
 	
 	![cat](https://i.ytimg.com/vi/j1YEVm5M-YM/sddefault.jpg)
