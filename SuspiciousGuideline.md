@@ -40,6 +40,8 @@ USACO-Bronze
 
 ## **Sorting**
 
+USACO-Bronze
+
 - Introduction to Sorting
 
 	- Distinct Number
@@ -59,6 +61,8 @@ USACO-Bronze
 	- Don’t Be Last
 
 ## **Additional**
+
+USACO-Bronze
 
 - Into Greedy
 
