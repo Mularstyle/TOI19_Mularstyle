@@ -41,8 +41,8 @@ This is a `Draft` version of TOI topic lists summary
 		- 2.5.4 LIS
 			- `O(N^2)` อย่าใช้เถอะขอล้อง
 			- `O(NlogN)` ใช้ Binary-Search
-		- 2.5.5 Knuth DP
-		- 2.5.6 Partition
+		- 2.5.5 Range DP
+		- 2.5.6 Partition DP
 		- 2.5.7 Bitmask DP
 		- 2.5.8 Sliding Window
 
