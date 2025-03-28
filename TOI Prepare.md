@@ -20,9 +20,8 @@
 [USACO](https://usaco.guide/gold) เป็นเว็บที่มีเนื้อหาและโจทย์ที่แนะนำสำหรับสาย competitive programming 
 
 ในเว็บจะมีเนื้อหาหลายระดับตั้งแต่ **General-Advanced**
+
 ![enter image description here](https://i.ibb.co/N230h4bT/image.png)
-
-
 
 และในแต่ละหัวข้อจะมีเนื้อหาให้อ่าน
 ![enter image description here](https://i.ibb.co/B5zYQ4zW/image.png)
